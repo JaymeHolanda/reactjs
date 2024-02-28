@@ -43,3 +43,6 @@ Se você não especificar @latest, o npm irá instalar a versão mais recente es
 
 ==> npm run dev
 -> Clica no link
+
+/// COMANDOS IMPORTANTES ///
+
