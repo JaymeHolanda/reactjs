@@ -35,7 +35,9 @@ Se você não especificar @latest, o npm irá instalar a versão mais recente es
 
 -> Obs: Selecionado o terminal da nova pasta criada. 
 
-==> npm install (é utilizado para instalar pacotes JavaScript)
+==> npm install (é utilizado para instalar pacotes reutilizaveis em JavaScript) 
+
+==> npm install _NomeDaBiblioteca
 
 ///////  iniciando um ambiente de desenvolvimento local   ////
 
