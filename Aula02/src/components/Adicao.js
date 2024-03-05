@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Adição = (props) => {
+const Adicao = (props) => {
   return (
     <div>
       O resultado de num 1 e num 2: {props.num1 + props.num2}
@@ -8,4 +8,4 @@ const Adição = (props) => {
   )
 }
 
-export default Adição
+export default Adicao

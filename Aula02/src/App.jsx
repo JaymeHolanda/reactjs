@@ -1,5 +1,7 @@
 import React from "react"
-import Adição from "./components/Adição"
+import Adicao from "./components/adicao"
+
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -10,12 +12,11 @@ function App() {
 }
 
 <div> 
-  
-  <Adição num1={2} num2={3} />
-  <Subtracao num1={4} num2={2} />
-  <Multiplicacao num1={9} num2={3} />
-  <Divisao num1 ={80} num2={2} />
+ 
+ <Adicao num1 = {2} num2 = {4} />
+
  
 
 </div>
+
 export default App
