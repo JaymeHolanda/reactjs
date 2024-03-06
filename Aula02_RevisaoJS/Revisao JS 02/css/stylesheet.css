@@ -12,3 +12,13 @@ h1 {
 p {
     font-weight: bold;
 }
+
+button {
+    text-decoration: solid;
+    border-radius: 30px;
+}
+
+.alert {
+    background-color: aqua;
+    font-weight: 900;
+}

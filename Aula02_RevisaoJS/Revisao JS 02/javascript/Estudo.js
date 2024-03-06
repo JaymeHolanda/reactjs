@@ -56,3 +56,20 @@ let pessoa = {
 };
 
 console.log (pessoa.nome, `, vindo da cidade de:`, pessoa.cidade);
+
+// Loop for 
+
+// for ( inicialização, condição, incremento) {bloco a ser repetido} 
+
+// for ( let i = 0; i < 5 , i++) {console.log(i)} 
+
+// condição 'i < 5 ' condição é verdadeira executa else n executa.
+
+
+// Loop While
+
+let i=0;
+while (i < 5) {
+    console.log(i);
+    i++
+}

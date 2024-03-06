@@ -16,3 +16,5 @@ if (media >= 7) {
 } else {
     console.log ('Quem sabe na prossima! Você reprovou! :( ')
 }
+
+// .
