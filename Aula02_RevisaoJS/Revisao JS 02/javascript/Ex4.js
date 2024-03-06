@@ -1,4 +1,4 @@
-// Arrays // 
+// Arrays /// 
 
 
 const notas = [10, 8 , 9];
