@@ -2,21 +2,27 @@
   "noticias": [
     {
       "id": "1",
-      "titulo": "Cientistas Descobrem Nova Espécie de Borboleta na Floresta Amazônica",
-      "subtitulo": "A descoberta destaca a riqueza da biodiversidade na maior floresta tropical do mundo.",
-      "texto": "Os pesquisadores ficaram maravilhados com a beleza e singularidade da nova espécie. Além disso, a descoberta ressalta a importância da preservação da Floresta Amazônica, não apenas pela sua diversidade de vida, mas também pelo papel crucial que desempenha na regulação do clima global e na manutenção da saúde do planeta."
+      "titulo": " Novos Produtos Lançados no PDV Aumentam Vendas em 20%",
+      "subtitulo": " Promoção de Início de Ano Atrai Clientes e Impulsiona Receita",
+      "texto": "A loja XYZ anunciou que, graças ao lançamento de novos produtos e uma promoção especial de início de ano, as vendas aumentaram em 20% comparado ao mesmo período do ano passado. Os produtos recém-lançados, incluindo eletrônicos e itens de decoração, foram bem recebidos pelos clientes. - Estamos satisfeitos com os resultados e esperamos manter esse crescimento ao longo do ano, disse Maria Silva, gerente de marketing da empresa."
     },
     {
       "id": "2",
-      "titulo": "Novo Estudo Revela Impacto Positivo da Meditação na Saúde Mental",
-      "subtitulo": "A prática regular de meditação é associada a benefícios significativos para o bem-estar psicológico",
-      "texto": "Um novo estudo conduzido por pesquisadores de renome internacional revelou evidências convincentes do impacto positivo da meditação na saúde mental. Publicado na prestigiada revista científica."
+      "titulo": "Tecnologia de Controle de Estoque Reduz Perdas em Supermercados",
+      "subtitulo": "Implementação de Novo Sistema de PDV Otimiza Gestão de Inventário",
+      "texto": "Supermercados locais que implementaram a nova tecnologia de controle de estoque baseada em PDV fiscal relatam uma redução significativa nas perdas de inventário. A ferramenta, que oferece monitoramento em tempo real e relatórios detalhados, ajudou a identificar e corrigir discrepâncias rapidamente. - A precisão e eficiência do nosso controle de estoque melhoraram drasticamente, afirmou João Pereira, gerente de operações de um dos supermercados beneficiados.."
     },
     {
-      "titulo": "Prova 2",
-      "subtitulo": "amanha",
-      "texto": "react com kelson",
+      "titulo": "Relatório de Vendas Mensal Indica Tendências de Consumo no Setor Alimentício",
+      "subtitulo": "Alimentos Orgânicos e Produtos Sem Glúten Ganham Popularidade",
+      "texto": "Um recente relatório de vendas mensal revelou que alimentos orgânicos e produtos sem glúten estão se tornando cada vez mais populares entre os consumidores. O estudo, que analisou dados de várias lojas, mostrou um aumento de 15% na demanda por esses itens. Especialistas acreditam que a crescente conscientização sobre saúde e bem-estar está impulsionando essa tendência. - As pessoas estão mais conscientes sobre o que consomem e buscam alternativas mais saudáveis, - comentou Ana Rodrigues, nutricionista e pesquisadora.",
       "id": "1117"
+    },
+    {
+      "id": "c15d",
+      "titulo": "Noticia de Teste",
+      "subtitulo": "Um teste de cadastro",
+      "texto": "Cadastrando"
     }
   ]
 }
