@@ -24,7 +24,7 @@ const Mega_Sena = () => {
       <h2>Números da Mega da Virada</h2>
       <p>Últimos numeros: {numeroSorteado}</p>
       <p>Sorteados Agora: {numerosSorteados.join(', ')}</p>
-      <button onClick={sortearNumero} id="butao" >Sortiar Números</button>
+      <button onClick={sortearNumero} id="butao" >Sortear Números</button>
     </div>
   );
 }
