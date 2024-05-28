@@ -1,8 +1,11 @@
 body {
   background-color: #d77d7d;
   font-size: 50px;
+ 
 }
 
 img {
   border: 100px solid #ccc;
+  border-radius: 30px;
+
 }
